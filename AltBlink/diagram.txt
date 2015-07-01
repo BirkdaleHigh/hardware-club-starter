@@ -1,0 +1,20 @@
+User-PC: keyboard input
+note over PC: Compile and Upload Program
+PC-Arduino: USB Cable
+note over Arduino: Run setup( )
+Arduino-LED: write RED HIGH
+note over Arduino: Run loop( )
+Arduino-LED: flip( ) state
+note right of LED: GREEN ON
+Arduino-LED: flip( ) state
+note right of LED: RED OFF
+note right of Arduino: Delay 1 second
+note over Arduino: Run loop( )
+Arduino-LED: flip( ) state
+note right of LED: GREEN OFF
+Arduino-LED: flip( ) state
+note right of LED: RED ON
+note right of Arduino: Delay 1 second
+note over Arduino: Run loop( )
+note right of Arduino: And on, and on,  and...
+LED--User:Isn't That Pretty
