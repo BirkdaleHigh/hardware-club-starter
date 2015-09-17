@@ -9,7 +9,7 @@ Starting next academic year there will be more spots available and a re-cap so a
 
 # Projects
 
-## 1. Robot Driving Lesson
+## 1. Robot Driving Lesson [\[View\]](RobotController/)
 
 With an arduino we will DIY our own brain to drive the [Bigtrak Rovers](http://rover.bigtrakxtr.co.uk/what.html) around a course. This is the frist step on a path to making hardware work for you.
 
@@ -21,3 +21,5 @@ With this project you'll start with zero programming or circuits  knowledge and 
 * use parameters
 
 You will finish this project with an understanding of how to learn something you don't have any idea to do in the first place.
+
+[\[Full Project\]](RobotController/)
