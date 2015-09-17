@@ -1,5 +1,6 @@
 # Hardware Club
-## Wednesday After School (3:10pm to 4pm) IT Room U5
+### Wednesday After School
+### 3:10pm to 4pm, IT Room U5
 
 Learn programming with basic hardware to control lights and motors.  We currently have room for a maximum of 10 people and there's around 5 spots still going. Currently this club is open for year 9 and up to join in. 
 
@@ -8,7 +9,7 @@ Starting next academic year there will be more spots available and a re-cap so a
 
 # Projects
 
-1. Robot Driving Lesson
+## 1. Robot Driving Lesson
 
 With an arduino we will DIY our own brain to drive the [Bigtrak Rovers](http://rover.bigtrakxtr.co.uk/what.html) around a course. This is the frist step on a path to making hardware work for you.
 

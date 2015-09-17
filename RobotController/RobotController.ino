@@ -18,10 +18,11 @@ void setup() {
 void loop() {
   digitalWrite(A, HIGH);
   digitalWrite(B, HIGH);
-  delay(drive
-  );
+  delay(drive);
   
   digitalWrite(A, LOW);
   digitalWrite(B, LOW);
   delay(pause);
 }
+
+// Now is a great time to learn what functions are. Try making one called 'forward' to drive our robot.
