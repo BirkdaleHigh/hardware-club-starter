@@ -5,7 +5,17 @@ void setup() {
 String message;
 
 void loop() {
-  message = Serial.readString();
+  while(Serial.available() > 0){
+    message = Serial.readString();
+  }
 
-  Serial.println(message);
+  if(message == "Hello"){
+    Serial.println("Greetings.");
+    message = "";
+  }
+
+  if(message != ""){
+    Serial.println(message);
+    message = "";
+  }
 }
