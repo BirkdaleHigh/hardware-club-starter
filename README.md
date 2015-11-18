@@ -37,3 +37,13 @@ With the skills gained from getting started with project zero reverse engineer h
 You will finish this project with an understanding of how to learn something you don't have any idea to do in the first place.
 
 [\[Full Project\]](RobotController/)
+
+## 2. Taking Things Serialsly [\[View\]](Serialsly/)
+
+The plan is loosely:
+
+* Serial Talking, uses the serial monitor to accept input and perform logic with a  response. 
+* Temperature Sensor, analogue input and the serial monitor
+* Light Sensor, repeat analogue input and serial monitor.
+* Potentiometer, input with analogue and debugging with the serial monitor
+* Servo Motor, Move positions with an analogue output.
