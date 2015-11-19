@@ -47,3 +47,5 @@ The plan is loosely:
 * Light Sensor, repeat analogue input and serial monitor.
 * Potentiometer, input with analogue and debugging with the serial monitor
 * Servo Motor, Move positions with an analogue output.
+
+[\[Full Project\]](Serialsly/)
