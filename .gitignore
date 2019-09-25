@@ -1,2 +1,7 @@
 ﻿Thumbs.db
 *.skb
+
+; Kicad working and cache files
+fp-info-cache
+*.kicad_pcb-bak
+*.bak

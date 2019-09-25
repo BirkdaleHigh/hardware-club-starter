@@ -30,7 +30,7 @@ With this project you'll start with zero programming or circuits  knowledge and 
 
 ## 1. Robot Driving Lesson [\[View\]](RobotController/)
 
-With an arduino we will DIY our own brain to drive the [Bigtrak Rovers](http://rover.bigtrakxtr.co.uk/what.html) around a course. This is the frist step on a path to making hardware work for you.
+With an Arduino we will DIY our own brain to drive the [Big Trak Rovers](http://rover.bigtrakxtr.co.uk/what.html) around a course. This is the first step on a path to making hardware work for you.
 
 With the skills gained from getting started with project zero reverse engineer how these robots are controlled and do it yourself better than the creators. You'll want to master functions,  parameters and variables to make life easy here.
 

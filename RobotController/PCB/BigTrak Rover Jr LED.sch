@@ -1,0 +1,215 @@
+EESchema Schematic File Version 4
+LIBS:BigTrak Rover Jr LED-cache
+EELAYER 29 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Device:R R1
+U 1 1 5D3A8C68
+P 2500 2400
+F 0 "R1" H 2570 2446 50  0000 L CNN
+F 1 "180" H 2570 2355 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2430 2400 50  0001 C CNN
+F 3 "~" H 2500 2400 50  0001 C CNN
+	1    2500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D1a1
+U 1 1 5D3AB7A2
+P 2500 2700
+F 0 "D1a1" V 2539 2582 50  0000 R CNN
+F 1 "LED" V 2448 2582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2500 2700 50  0001 C CNN
+F 3 "~" H 2500 2700 50  0001 C CNN
+	1    2500 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 2850 2500 3550
+$Comp
+L Device:LED D1b1
+U 1 1 5D3B18DD
+P 2500 3700
+F 0 "D1b1" V 2539 3582 50  0000 R CNN
+F 1 "LED" V 2448 3582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2500 3700 50  0001 C CNN
+F 3 "~" H 2500 3700 50  0001 C CNN
+	1    2500 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 3850 2500 4000
+$Comp
+L Device:R R2
+U 1 1 5D3BC527
+P 3000 2400
+F 0 "R2" H 3070 2446 50  0000 L CNN
+F 1 "180" H 3070 2355 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 2930 2400 50  0001 C CNN
+F 3 "~" H 3000 2400 50  0001 C CNN
+	1    3000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D2a1
+U 1 1 5D3BC52D
+P 3000 2700
+F 0 "D2a1" V 3039 2582 50  0000 R CNN
+F 1 "LED" V 2948 2582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3000 2700 50  0001 C CNN
+F 3 "~" H 3000 2700 50  0001 C CNN
+	1    3000 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3000 2850 3000 3550
+$Comp
+L Device:LED D2b1
+U 1 1 5D3BC535
+P 3000 3700
+F 0 "D2b1" V 3039 3582 50  0000 R CNN
+F 1 "LED" V 2948 3582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3000 3700 50  0001 C CNN
+F 3 "~" H 3000 3700 50  0001 C CNN
+	1    3000 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5D3BD34E
+P 3500 2400
+F 0 "R3" H 3570 2446 50  0000 L CNN
+F 1 "180" H 3570 2355 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3430 2400 50  0001 C CNN
+F 3 "~" H 3500 2400 50  0001 C CNN
+	1    3500 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D3a1
+U 1 1 5D3BD354
+P 3500 2700
+F 0 "D3a1" V 3539 2582 50  0000 R CNN
+F 1 "LED" V 3448 2582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3500 2700 50  0001 C CNN
+F 3 "~" H 3500 2700 50  0001 C CNN
+	1    3500 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3500 2850 3500 3550
+$Comp
+L Device:LED D3b1
+U 1 1 5D3BD35C
+P 3500 3700
+F 0 "D3b1" V 3539 3582 50  0000 R CNN
+F 1 "LED" V 3448 3582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 3500 3700 50  0001 C CNN
+F 3 "~" H 3500 3700 50  0001 C CNN
+	1    3500 3700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5D3BF0F0
+P 4000 2400
+F 0 "R4" H 4070 2446 50  0000 L CNN
+F 1 "180" H 4070 2355 50  0000 L CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3930 2400 50  0001 C CNN
+F 3 "~" H 4000 2400 50  0001 C CNN
+	1    4000 2400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:LED D4a1
+U 1 1 5D3BF0F6
+P 4000 2700
+F 0 "D4a1" V 4039 2582 50  0000 R CNN
+F 1 "LED" V 3948 2582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4000 2700 50  0001 C CNN
+F 3 "~" H 4000 2700 50  0001 C CNN
+	1    4000 2700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4000 2850 4000 3550
+$Comp
+L Device:LED D4b1
+U 1 1 5D3BF0FE
+P 4000 3700
+F 0 "D4b1" V 4039 3582 50  0000 R CNN
+F 1 "LED" V 3948 3582 50  0000 R CNN
+F 2 "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4000 3700 50  0001 C CNN
+F 3 "~" H 4000 3700 50  0001 C CNN
+	1    4000 3700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 4000 3000 4000
+Wire Wire Line
+	3000 3850 3000 4000
+Connection ~ 3000 4000
+Wire Wire Line
+	3000 4000 3500 4000
+Wire Wire Line
+	3500 3850 3500 4000
+Connection ~ 3500 4000
+Wire Wire Line
+	3500 4000 4000 4000
+Wire Wire Line
+	4000 4000 4000 3850
+$Comp
+L Connector_Generic:Conn_01x05 J1
+U 1 1 5D3C1B2E
+P 3250 1050
+F 0 "J1" V 3250 1400 50  0000 C CNN
+F 1 "Conn_1Rows-05Pins" V 3400 1050 50  0000 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical" H 3250 1050 50  0001 C CNN
+F 3 "~" H 3250 1050 50  0001 C CNN
+	1    3250 1050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2500 1450 3050 1450
+Wire Wire Line
+	3050 1450 3050 1250
+Wire Wire Line
+	2500 1450 2500 2250
+Wire Wire Line
+	3000 2250 3000 1650
+Wire Wire Line
+	3000 1650 3150 1650
+Wire Wire Line
+	3150 1650 3150 1250
+Wire Wire Line
+	3500 2250 3500 1650
+Wire Wire Line
+	3500 1650 3250 1650
+Wire Wire Line
+	3250 1650 3250 1250
+Wire Wire Line
+	4000 2250 4000 1450
+Wire Wire Line
+	4000 1450 3350 1450
+Wire Wire Line
+	3350 1450 3350 1250
+Wire Wire Line
+	4000 4000 4550 4000
+Wire Wire Line
+	4550 4000 4550 1250
+Wire Wire Line
+	4550 1250 3450 1250
+Connection ~ 4000 4000
+$EndSCHEMATC
