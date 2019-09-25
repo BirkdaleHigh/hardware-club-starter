@@ -38,7 +38,7 @@ You will finish this project with an understanding of how to learn something you
 
 [\[Full Project\]](RobotController/)
 
-## 2. Taking Things Serialsly [\[View\]](Serialsly/)
+## 2. Serially Working [\[View\]](Serially/)
 
 The plan is loosely:
 
@@ -48,4 +48,4 @@ The plan is loosely:
 * Potentiometer, input with analogue and debugging with the serial monitor
 * Servo Motor, Move positions with an analogue output.
 
-[\[Full Project\]](Serialsly/)
+[\[Full Project\]](Serially/)

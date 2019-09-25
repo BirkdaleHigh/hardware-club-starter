@@ -1,4 +1,4 @@
-# Taking Things Serialsly
+# Serially Working
 
 The plan is loosely:
 
