@@ -81,6 +81,7 @@ In the PCB folder is a KiCad project which makes a suitable PCB of the above mea
 This can be made to order reasonably cheaply but it's fiddly if you place components yourself and 3mm x 2mm squares may not be appropriate for children in a club. If you do please consider making a pull request adding to [the real world log](PCB/Manufacture.log)
 
 ![3d PCB Render](PCB/example.png)
+![Made PCB](PCB/manufacture_v1.jpg)
 
 ### Mounting Board (optional)
 
