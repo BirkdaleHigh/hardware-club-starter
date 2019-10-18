@@ -49,3 +49,10 @@ The plan is loosely:
 * Servo Motor, Move positions with an analogue output.
 
 [\[Full Project\]](Serially/)
+
+## 3. Hardware Technique
+
+Examples that show you using programming techniques to make using hardware simple to you.
+These can be further built upon with your own ideas.
+
+* *[Servo](servo/) chaning the input position to an output value, reading over the serial port.
