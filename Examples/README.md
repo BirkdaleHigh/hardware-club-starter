@@ -1,4 +1,4 @@
-The examples folder hose .ino files used as demos on the board or in general because they are simple.
+The examples folder house .ino files used as demos on the board or in general because they are simple.
 
 You should look in the other folders next to "Examples" for more guided tutorials, projects or explanations.
 
